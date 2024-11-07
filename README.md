@@ -28,4 +28,4 @@ With experience spanning backend development, cloud engineering, and AI-enabled 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Vaibhav-crux"><img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-crux&show_icons=true&hide=prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vaibhav-crux's GitHub stats" /></a>
+<a href="http://www.github.com/Vaibhav-crux"><img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-crux&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vaibhav-crux's GitHub stats" /></a>
