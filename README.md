@@ -7,7 +7,6 @@ Strategic Thinker with Innovative Problem-Solver
 With experience spanning backend development, cloud engineering, and AI-enabled applications, I bring a strong foundation in Python, TypeScript, and DevOps principles to design and optimize scalable solutions. I've worked on high-performance applications that enhance efficiency and reduce operational costs. My expertise includes building RESTful APIs, integrating cloud services (GCP, AWS), and deploying robust CI/CD pipelines. As a driven professional with a commitment to continuous learning, I am skilled in leveraging technologies like FastAPI, TensorFlow, and Mongoose to deliver innovative and reliable solutions.
 
 * 🌍  I'm based in Gorakhpur, Uttar Pradesh, India
-* 🖥️  See my portfolio at [Vaibhav](http://my-portfolio-pi-nine-32.vercel.app)
 * ✉️  You can contact me at [vaibhavtiwari.945@gmail.com](mailto:vaibhavtiwari.945@gmail.com)
 * 🧠  I'm learning Advanced Machine Learning Algorithms, Blockchain and Web3 Technologies
 * 🤝  I'm open to collaborating on Exciting projects that push the boundaries of AI, backend engineering, and cloud technologies. I enjoy working with growing teams, especially those focused on innovation, learning, and achieving scalable, impactful results. Whether it’s through developing efficient APIs, advancing machine learning capabilities, or enhancing DevOps practices, I am eager to contribute my skills to initiatives that foster collaboration, continuous improvement, and technological advancement.
